@@ -4,29 +4,22 @@ background-size: cover;
 background-repeat: no-repeat;
 background-size: 100vh;
 }
-
 form{
     height: 800px;
     width: 400px;
     border: 10px solid coral;
     margin: auto;
-    
     margin-top: 18vh ;
     text-align: center;
     border-radius: 10px; background-color:rgba(100,130,255,0.7);
 }
-
-
-
 .heading{
     color: yellow;
     text-align: left;
     margin: 1.5em 1.5em;
     font-weight: bold;
     font-size: 160%;
-    font-family: serif;
-    
-  
+    font-family: serif;  
 }
 input{
    font-family: serif;
@@ -34,7 +27,6 @@ input{
    font-size: 120%;
   padding: 3px 3px;
   border:none;
- 
   border-bottom: 1.5px solid white;
   text-align: center;
   background-color:rgba(100,100,255,0.000001);
@@ -42,7 +34,6 @@ input{
   ::placeholder{
       color:white;
   }
-  
 .butt1{
     width:6em;
     height:2em;
@@ -53,8 +44,7 @@ input{
     background-color: yellow;
     }
 .butt1:hover{
-    background-color:rgba(100,130,255,0.7);
-    
+    background-color:rgba(100,130,255,0.7);  
 }
 .foot{
     font-size:125%;
@@ -62,10 +52,8 @@ input{
     font-style:italic;
     font-family:sanserif;
 }
-
 a:link{
     color: yellow;
-   
 }
 a:hover{
     color: blue;
